@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VedantBhosle31&label=Profile%20views&color=0e75b6&style=flat" alt="VedantBhosle31" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VedantBhosle31" alt="VedantBhosle31" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=tokyonight"><img src="https://github-profile-trophy.vercel.app/?username=VedantBhosle31&theme=tokyonight" alt="VedantBhosle31" /></a> </p>
 
 - 🔭 I’m currently working on [Quiz App](https://github.com/VedantBhosle31/Quiz-Client)
 
