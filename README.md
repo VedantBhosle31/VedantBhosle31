@@ -27,4 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedantbhosle31&show_icons=true&locale=en" alt="vedantbhosle31" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantbhosle31&" alt="vedantbhosle31" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantbhosle31&" alt="[vedantbhosle31](https://streak-stats.demolab.com/?user=VedantBhosle31)" /></p>
+
+<!-- https://streak-stats.demolab.com/?user=VedantBhosle31 -->
